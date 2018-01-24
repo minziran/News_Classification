@@ -82,13 +82,13 @@ tensorflow: 1.4.0
 ### Running the Tranning set
 
 ```
-Give an example
+I will add soon
 ```
 
 ### Test the result
 
 ```
-Give an example
+I will add soon
 ```
 
 ## Deployment
