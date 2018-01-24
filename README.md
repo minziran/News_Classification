@@ -5,13 +5,13 @@ analyze, understand, and derive meaning from human language in a smart and usefu
 It is also able to be applied to text classification, automatic summarization, translation,
 sentiment analysis, speech recognition, and conversion.
 
-In this project, I will use CNN and RNN algorithms to implement text classification
+In this project, using CNN and RNN algorithms to implement text classification
 respectively. Both of them were a good demonstration of NLP implement. The dataset
 comprises three different groups: training dataset, testing dataset, and validation dataset.
 The training dataset is used to generate an appropriate model by CNN or RNN algorithms.
 And the testing data will be tested by the model. Then we will compare each result with
 validation data set to calculate precision rate. Therefore, we can easily draw a conclusion
-that which algorithm will perform best. And I will also present the result in a visualized
+that which algorithm will perform best. And it also present the result in a visualized
 way. In addition, the development environment will include three main libraries,
 Tensorflow, scikit-learn, and scipy.
 
@@ -90,6 +90,7 @@ It will be added soon.
 
 * **Weihan** - *Vanderbilt University Student* - [Weihan](https://github.com/wwtx9)
 
+* **Ivy** - *Vanderbilt University Student* - [Ziran]
 
 
 
