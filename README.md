@@ -37,39 +37,41 @@ http://www.jair.org/media/2669/live-2669-4346-jair.pdf
 Latent Dirichlet Allocation
 http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 
-### Installing
+### Install and Setup a Python Environment for Machine Learning and Deep Learning with Anaconda
 
-A step by step series of examples that tell you have to get a development env running
+1.Download and install Anaconda
+In this step, we will download the Anaconda Python package for your platform.
 
-Say what the step will be
+Anaconda is a free and easy-to-use environment for scientific Python.
 
-```
-Give the example
-```
-
-And repeat
 
 ```
-until finished
+1. Visit the Anaconda homepage.
+2. Click “Anaconda” from the menu and click “Download” to go to the download page.
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+2.Start and Update Anaconda
 
-## Running the tests
+```
+conda -V
+python -V
+conda update conda
+conda update anaconda
+```
+3.Install Tensorflow with Conda in Anaconda environment 
+https://anaconda.org/conda-forge/tensorflow
 
-Explain how to run the automated tests for this system
+```
+conda install -c conda-forge tensorflow 
+```
 
-### Break down into end to end tests
-
-Explain what these tests test and why
+### Running the Tranning set
 
 ```
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+### Test the result
 
 ```
 Give an example
