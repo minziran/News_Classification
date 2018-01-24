@@ -64,7 +64,21 @@ https://anaconda.org/conda-forge/tensorflow
 ```
 conda install -c conda-forge tensorflow 
 ```
-
+After finishing setting up, run versions.py to check everything setup is correct.
+```
+python versions.py
+```
+You should see output like:
+```
+Wangs-MacBook-Pro:News_Classification wangweihan$ python versions.py 
+scipy: 0.19.1
+numpy: 1.13.3
+matplotlib: 2.1.0
+pandas: 0.20.3
+statsmodels: 0.8.0
+sklearn: 0.19.1
+tensorflow: 1.4.0
+```
 ### Running the Tranning set
 
 ```
